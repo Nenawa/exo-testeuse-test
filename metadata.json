@@ -1,0 +1,5 @@
+{
+  "name": "Mini Product Catalog",
+  "description": "A visually appealing mini product catalog built with React and Tailwind CSS. It allows users to view a list of products and filter them by name.",
+  "requestFramePermissions": []
+}
